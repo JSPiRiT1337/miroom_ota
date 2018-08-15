@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.8.9_port</VersionName>
-  <VersionNumber type="integer">20180814</VersionNumber>
+  <RomName>MiRoom</RomName>
+  <VersionName>Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port</VersionName>
+  <VersionNumber type="integer">20180815</VersionNumber>
   <DirectUrl>https://datapacket.dl.sourceforge.net/project/miui-port/MIUIPro/miuipro_v7.1.2_rolex_8.8.9_port.zip </DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/miui-port/files/MIUIPro/miuipro_v7.1.2_rolex_8.8.9_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
@@ -12,56 +12,7 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-EN     Added:
-
-	  - SMS delivery settings
-	
-	  - Display of localized items in the Mi Cloud menu
-	
-	  - Convert units to Mi Cloud galleries
-	  
-	Updated:
-	 
-	  - Google Play
-	  
-	  - WebView
-	  
-	  - Translation
-	  
-	Fixed:
-	  
-	  - Changed the location of the elements in the call window
-	  
-	  - Icons and mask themes for Chinese changes
-	  
-	  - Not important notifications in QS
-	  
-	  - Turn on the flashlight on the lock screen
-	  
- RU    Добавлено:	
-	  - Настройки звука о доставке SMS 
-	  
-	  - Отображение локализованых пунктов в меню Mi Cloud
-	  
-	  - Перевод единиц измерения в Mi Cloud галереи  
-	
-	Обновлено:
-	  
-	  - Google Play
-	  
-	  - WebView
-	  
-	  - Перевод
-	  
-	Исправлено:
-
-	  - Изменено расположение элементов в окне вызова 
-
-	  - Иконки и маски тем под китайские изменения 
-
-	  - Не важные уведомления в шторке 
-
-	  - Включение фонарика на экране блокировки
+First Port
   </Changelog>
 </ROM>
  

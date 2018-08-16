@@ -3,7 +3,7 @@
   <RomName>MiRoom</RomName>
   <VersionName>Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port</VersionName>
   <VersionNumber type="integer">20180816</VersionNumber>
-  <DirectUrl>https://kent.dl.sourceforge.net/project/team-tentacles/MiRoom/Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port.zip</DirectUrl>
+  <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTS/MiRoom/Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/MiRoom/Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>0a18f68009e84b5ce48e6f3a481c811c</CheckMD5>

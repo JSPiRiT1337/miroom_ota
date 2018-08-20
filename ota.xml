@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port</VersionName>
-  <VersionNumber type="integer">20180816</VersionNumber>
+  <VersionName>Redmi4A_MIUI_8.8.16_MiRoom_7.1.2_port</VersionName>
+  <VersionNumber type="integer">20180811</VersionNumber>
   <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTS/MiRoom/Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/MiRoom/Redmi4A_MIUI_8.8.9_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>0a18f68009e84b5ce48e6f3a481c811c</CheckMD5>
-  <FileSize type="integer">1191558211</FileSize>
+  <FileSize type="integer">1141139065</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-First Port
+    *Добавлен переключатель «Запись экрана» в панель уведомлений для быстрой записи видео с экрана
+    *Обновлен внешний вид виджетов плеера в панели уведомлений
+    *Первое уведомление в списке теперь сразу отображается раскрытым
+    *Добавлена анимация прогноза на главном экране приложения «Погода»
+    *Возможность добавить до 6 иконок приложений в нижний ряд рабочего стола
+    *Исправлена работа приложения iGuides
+    *Оптимизация размера прошивки
+    *Множество мелких фиксов и улучшений.
+
   </Changelog>
 </ROM>
  

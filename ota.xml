@@ -12,9 +12,9 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-    EN: Added stock kernel, added firmware in zip, another way of porting, fixed compas, volte (not sure)
+    EN: Added stock kernel, added firmware in zip, another way of porting, fixed compass and volte (not sure)
     
-    RU: Вернул сток ядро, теперь firmware вшит в прошивку, портировал по другому гайду, пофиксил компас, volte (не уверен)
+    RU: Вернул сток ядро, теперь firmware вшит в прошивку, портировал по другому гайду, пофиксил компас и volte (не уверен)
   </Changelog>
 </ROM>
  

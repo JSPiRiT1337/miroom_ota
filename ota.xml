@@ -22,6 +22,14 @@
         * Fixed problems with renaming the notes folder
         * Updated the style of the icons "Share" in the Gallery. Now the icons depend on the theme
         * Updated icons in the desktop editing mode
+        * Ability to disable sound deletion (now officially added by the developers themselves)
+        * Added 3 additional languages: Ukrainian, Turkish, Vietnamese
+        * Grid up to 6x7 for all devices
+        * Ability to mute the sound when you exit the "Silent" and "Do Not Disturb" modes
+        * A new hidden opportunity "Extreme energy saving" activated
+        * Updated video player, added the option "Full Screen"
+        * Fixed bugs when cloning applications
+        * Many small fixes and improvements
     
     RU: *Добавлена возможность скрывать приложения на рабочем столе (Настройки > Защита приложений > Настройки > Скрытые приложения)
         *Добавлена новая функция «Первая помощь» в приложении «Безопасность»
@@ -33,6 +41,14 @@
         *Исправлены проблемы с переименовыванием папки заметок
         *Обновлен стиль иконок «Поделиться» в Галерее. Теперь иконки зависят от темы
         *Обновлены иконки в режиме редактирования рабочего стола
+        *Возможность отключить звук удаления (теперь официально добавили сами разработчики)
+        *Добавлены 3 дополнительных языка: Украинский, Турецкий, Вьетнамский
+        *Сетка до 6х7 для всех устройств
+        *Возможность отключить звук при выходе из режимов «Без звука» и «Не беспокоить»
+        *Активирована новая скрытая возможность «Экстремальное энергосбережение»
+        *Обновлен видеоплеер, добавлена опция «Во весь экран»
+        *Исправлены ошибки при клонировании приложений
+        *Множество мелких фиксов и улучшений
   </Changelog>
 </ROM>
  

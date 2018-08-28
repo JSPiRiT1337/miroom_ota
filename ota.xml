@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.8.16_MiRoom_7.1.2_port_2</VersionName>
+  <VersionName>Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port</VersionName>
   <VersionNumber type="integer">20180821</VersionNumber>
-  <DirectUrl>https://kent.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.16_MiRoom_7.1.2_port_2.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.8.16_MiRoom_7.1.2_port_2.zip/download</HttpUrl>
+  <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>b5eed14428831f779180819f6155b774</CheckMD5>
-  <FileSize type="integer">1209454592</FileSize>
+  <CheckMD5>20c23439470847b54f36e0de38747a3f</CheckMD5>
+  <FileSize type="integer">1234280448</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-    EN: Added stock kernel, added firmware in zip, another way of porting, fixed compass and volte (not sure) + minor fixes
+    EN: * Added the ability to hide applications on the desktop (Settings> Application Security> Settings> Hidden Applications)
+        * Added a new feature "First Aid" in the application "Security"
+        * Fixed displaying the data transfer icon in the status bar when the mobile Internet was disconnected
+        * Fixed unlocking the screen with Bluetooth devices while playing music
+        * Improved compass calibration process
+        * Fixed problems with renaming records of the recorder
+        * Fixed problems with scrolling the list of records of the recorder
+        * Fixed problems with renaming the notes folder
+        * Updated the style of the icons "Share" in the Gallery. Now the icons depend on the theme
+        * Updated icons in the desktop editing mode
     
-    RU: Вернул сток ядро, теперь firmware вшит в прошивку, портировал по другому гайду, пофиксил компас и volte (не уверен) + мелкие фиксы
+    RU: *Добавлена возможность скрывать приложения на рабочем столе (Настройки > Защита приложений > Настройки > Скрытые приложения)
+        *Добавлена новая функция «Первая помощь» в приложении «Безопасность»
+        *Исправлено отображение иконки передачи данных в строке состояния, когда мобильный интернет был отключен
+        *Исправлена разблокировка экрана с помощью устройств Bluetooth при воспроизведении музыки
+        *Улучшен процесс калибровки компаса
+        *Исправлены проблемы с переименовыванием записей диктофона
+        *Исправлены проблемы со прокруткой списка записей диктофона
+        *Исправлены проблемы с переименовыванием папки заметок
+        *Обновлен стиль иконок «Поделиться» в Галерее. Теперь иконки зависят от темы
+        *Обновлены иконки в режиме редактирования рабочего стола
   </Changelog>
 </ROM>
  

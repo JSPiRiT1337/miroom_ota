@@ -2,12 +2,12 @@
 <ROM>
   <RomName>MiRoom</RomName>
   <VersionName>Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port</VersionName>
-  <VersionNumber type="integer">20180828</VersionNumber>
-  <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip</DirectUrl>
+  <VersionNumber type="integer">20180829</VersionNumber>
+  <DirectUrl>https://astuteinternet.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>20c23439470847b54f36e0de38747a3f</CheckMD5>
-  <FileSize type="integer">1234280448</FileSize>
+  <CheckMD5>bd567b93bc6a17921e4b21ba05d88ee5</CheckMD5>
+  <FileSize type="integer">1219779943</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />

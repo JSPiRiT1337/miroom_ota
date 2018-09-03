@@ -1,54 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port</VersionName>
-  <VersionNumber type="integer">20180829</VersionNumber>
+  <VersionName>Redmi4A_MIUI_8.8.30_MiRoom_7.1.2_port</VersionName>
+  <VersionNumber type="integer">20180903</VersionNumber>
   <DirectUrl>https://astuteinternet.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.8.23_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>bd567b93bc6a17921e4b21ba05d88ee5</CheckMD5>
+  <CheckMD5>98219eb943d06181e298a4efd211f3d3</CheckMD5>
   <FileSize type="integer">1219779943</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-    EN: * Added the ability to hide applications on the desktop (Settings> Application Security> Settings> Hidden Applications)
-        * Added a new feature "First Aid" in the application "Security"
-        * Fixed displaying the data transfer icon in the status bar when the mobile Internet was disconnected
-        * Fixed unlocking the screen with Bluetooth devices while playing music
-        * Improved compass calibration process
-        * Fixed problems with renaming records of the recorder
-        * Fixed problems with scrolling the list of records of the recorder
-        * Fixed problems with renaming the notes folder
-        * Updated the style of the icons "Share" in the Gallery. Now the icons depend on the theme
-        * Updated icons in the desktop editing mode
-        * Ability to disable sound deletion (now officially added by the developers themselves)
-        * Added 3 additional languages: Ukrainian, Turkish, Vietnamese
-        * Grid up to 6x7 for all devices
-        * Ability to mute the sound when you exit the "Silent" and "Do Not Disturb" modes
-        * A new hidden opportunity "Extreme energy saving" activated
-        * Updated video player, added the option "Full Screen"
-        * Fixed bugs when cloning applications
-        * Many small fixes and improvements
-    
-    RU: *Добавлена возможность скрывать приложения на рабочем столе (Настройки > Защита приложений > Настройки > Скрытые приложения)
-        *Добавлена новая функция «Первая помощь» в приложении «Безопасность»
-        *Исправлено отображение иконки передачи данных в строке состояния, когда мобильный интернет был отключен
-        *Исправлена разблокировка экрана с помощью устройств Bluetooth при воспроизведении музыки
-        *Улучшен процесс калибровки компаса
-        *Исправлены проблемы с переименовыванием записей диктофона
-        *Исправлены проблемы со прокруткой списка записей диктофона
-        *Исправлены проблемы с переименовыванием папки заметок
-        *Обновлен стиль иконок «Поделиться» в Галерее. Теперь иконки зависят от темы
-        *Обновлены иконки в режиме редактирования рабочего стола
-        *Возможность отключить звук удаления (теперь официально добавили сами разработчики)
-        *Добавлены 3 дополнительных языка: Украинский, Турецкий, Вьетнамский
-        *Сетка до 6х7 для всех устройств
-        *Возможность отключить звук при выходе из режимов «Без звука» и «Не беспокоить»
-        *Активирована новая скрытая возможность «Экстремальное энергосбережение»
-        *Обновлен видеоплеер, добавлена опция «Во весь экран»
-        *Исправлены ошибки при клонировании приложений
-        *Множество мелких фиксов и улучшений
+Официальные изменения:
+
+    Исправлен черный экран при получении уведомления, когда экран заблокирован.
+
+    Исправлено отображение иконки экрана блокировки при использовании сторонних тем.
+
+    Ускорен запуск приложений в режиме «Ускорение игр».
+
+    Добавлено включение режима «Always On Display» по расписанию для Mi8, Mi8SE.
+
+    Исправлено дублирование счетчика уведомлений на иконке приложений Telegram и Whats App.
+
+    Ярлык очистки больше не будет появляться на рабочем столе после каждой очистки мусора.
+
+    Возможность отключить жест «Предыдущее приложение» в настройках полнокэранного управления.
+ 
+Изменения от команды МиРум:
+
+    Увеличена громкость звука в наушниках
+
+    Возвращены смайлы в приложении «Сообщения».
+
+    Безлимитное хранилище фото в исходном размере Google фото
+
+    Множество мелких фиксов и улучшений.
   </Changelog>
 </ROM>
  

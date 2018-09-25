@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.8.30_MiRoom_7.1.2_port</VersionName>
+  <VersionName>Redmi4A_MIUI_8.9.20_MiRoom_7.1.2_port</VersionName>
   <VersionNumber type="integer">20180903</VersionNumber>
   <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.8.30_MiRoom_7.1.2_port.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.8.30_MiRoom_7.1.2_port.zip/download</HttpUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.9.20_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>98219eb943d06181e298a4efd211f3d3</CheckMD5>
   <FileSize type="integer">1219779943</FileSize>
@@ -12,31 +12,35 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-Официальные изменения:
+RU:
+*Официальные изменения:
 
-    Исправлен черный экран при получении уведомления, когда экран заблокирован.
+    В строке состояния проценты батареи теперь снова отображаются корректно справа от иконки
 
-    Исправлено отображение иконки экрана блокировки при использовании сторонних тем.
+*Изменения от команды МиРум:
 
-    Ускорен запуск приложений в режиме «Ускорение игр».
+    Добавлен расширенный выбор типа сети
 
-    Добавлено включение режима «Always On Display» по расписанию для Mi8, Mi8SE.
+    Множество доработок в турецком переводе
 
-    Исправлено дублирование счетчика уведомлений на иконке приложений Telegram и Whats App.
+    Добавлен польский язык (Автор Orjon)
 
-    Ярлык очистки больше не будет появляться на рабочем столе после каждой очистки мусора.
-
-    Возможность отключить жест «Предыдущее приложение» в настройках полнокэранного управления.
+    Небольшие доработки и исправления
  
-Изменения от команды МиРум:
+ EN:
+ * Official changes:
 
-    Увеличена громкость звука в наушниках
+     In the status bar, battery percentages are now displayed again correctly to the right of the icon
 
-    Возвращены смайлы в приложении «Сообщения».
+* Changes from the MiRUM team:
 
-    Безлимитное хранилище фото в исходном размере Google фото
+     Added advanced network type selection
 
-    Множество мелких фиксов и улучшений.
+     A lot of improvements in the Turkish translation
+
+     Added Polish language (Author Orjon)
+
+     Minor improvements and bugfixes
   </Changelog>
 </ROM>
  

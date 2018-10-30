@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.9.20_MiRoom_7.1.2_port</VersionName>
+  <VersionName>Redmi4A_MIUI_8.10.25_MiRoom_7.1.2_port</VersionName>
   <VersionNumber type="integer">20180925</VersionNumber>
-  <DirectUrl>https://astuteinternet.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.9.20_MiRoom_7.1.2_port.zip</DirectUrl>
+  <DirectUrl>https://astuteinternet.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.10.25_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/Redmi4A_MIUI_8.9.20_MiRoom_7.1.2_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>98219eb943d06181e298a4efd211f3d3</CheckMD5>
-  <FileSize type="integer">1235897987</FileSize>
+  <FileSize type="integer">1234158885</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
@@ -15,32 +15,44 @@
 RU:
 *Официальные изменения:
 
-    В строке состояния проценты батареи теперь снова отображаются корректно справа от иконки
+    Добавлена возможность изменять стиль уведомлений
+    
+    Обновлен интерфейс менеджера тем
+    
+    Возвращена возможность отключить доступ к панели уведомлений с экрана блокировки
+    
+    Небольшие доработки и исправления
 
 *Изменения от команды МиРум:
 
-    Добавлен расширенный выбор типа сети
+    Обновлен Play маркет
 
-    Множество доработок в турецком переводе
+    Добавлена возможность отображать пол и возраст на фронтальной камере
 
-    Добавлен польский язык (Автор Orjon)
+    Новые иконки приложений
 
-    Небольшие доработки и исправления
+    Множество доработок перевода и патчей
  
  EN:
  * Official changes:
 
-     In the status bar, battery percentages are now displayed again correctly to the right of the icon
+     Added the ability to change the style of notifications
+    
+     Updated theme manager interface
+    
+     Returned the ability to disable access to the notification panel from the lock screen
+    
+     Minor improvements and fixes
 
 * Changes from the MiROOM team:
 
-     Added advanced network type selection
+     Updated Play Market
 
-     A lot of improvements in the Turkish translation (Authors Suatsari и İsocan01)
+     Added ability to display gender and age on the front camera
 
-     Added Polish language (Author Orjon)
+     New application icons
 
-     Minor improvements and bugfixes
+     Many translation improvements and patches
   </Changelog>
 </ROM>
  

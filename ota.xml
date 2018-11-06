@@ -1,58 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MiRoom</RomName>
-  <VersionName>Redmi4A_MIUI_8.10.25_MiRoom_7.1.2_port</VersionName>
-  <VersionNumber type="integer">20181030</VersionNumber>
-  <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Redmi4A_MIUI_8.10.25_MiRoom_7.1.2_port.zip</DirectUrl>
+  <VersionName>Redmi4A_MIUI_8.11.1_MiRoom_7.1.2_port</VersionName>
+  <VersionNumber type="integer">20181105</VersionNumber>
+  <DirectUrl>https://netix.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Beta/Redmi4A_MIUI_8.11.1_MiRoom_7.1.2_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>8d7ed79b7a780a1ebffde07d6032a007</CheckMD5>
-  <FileSize type="integer">1234158885</FileSize>
+  <FileSize type="integer">1233910147</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
 RU:
-*Официальные изменения:
-
-    Добавлена возможность изменять стиль уведомлений
+Новый вид батареи с процентами в строке состояния
     
-    Обновлен интерфейс менеджера тем
+Новый вид выбора размера шрифт
     
-    Возвращена возможность отключить доступ к панели уведомлений с экрана блокировки
+Возможность изменять количество переключателей в панели уведомлений
     
-    Небольшие доработки и исправления
-
-*Изменения от команды МиРум:
-
-    Обновлен Play маркет
-
-    Добавлена возможность отображать пол и возраст на фронтальной камере
-
-    Новые иконки приложений
-
-    Множество доработок перевода и патчей
+Информация о вызовах теперь отображается в три строки
+    
+Исправлен расчет ипотеки в калькуляторе
+    
+Обновлены гаппсы
+    
+Новые иконки приложений
+    
+Исправления перевода и оптимизация некоторых патчей
  
  EN:
- * Official changes:
-
-     Added the ability to change the style of notifications
+New type of battery with percents in the status bar
     
-     Updated theme manager interface
+New type of font size selection
     
-     Returned the ability to disable access to the notification panel from the lock screen
+Ability to change the number of switches in the notification panel
     
-     Minor improvements and fixes
-
-* Changes from the MiROOM team:
-
-     Updated Play Market
-
-     Added ability to display gender and age on the front camera
-
-     New application icons
-
-     Many translation improvements and patches
+Call information is now displayed in three lines.
+    
+Fixed calculation of the mortgage in the calculator
+    
+Updated gapps
+    
+New application icons
+    
+Translation fixes and optimization of some patches
   </Changelog>
 </ROM>
  
